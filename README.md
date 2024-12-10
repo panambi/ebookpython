@@ -1,22 +1,20 @@
 # Projeto: Análise de Dados com Python
 
-ℹ️ **NOTA:** Este é o repositório desenvolvido durante o estudo e aplicação de técnicas de análise de dados utilizando Python.
+ℹ️ **NOTA:** Este é o repositório desenvolvido durante o estudo e aplicação de técnicas do evento "CAIXA - IA Generativa com Microsoft Copilot".
 
-Este projeto tem como objetivo praticar a criação de um ebook para o curso da DIO.
-
-📊 **Clique aqui para visualizar os resultados**
+Este projeto tem como objetivo praticar a criação de um ebook para o aula Criando um Ebook com ChatGPT & MidJourney | Desafio de projeto da DIO.
 
 ---
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - **ChatGPT**: Pesquisa e adaptação 
-- **LeonardoAI**: imagens
+- **LeonardoAI**: imagens (Não foi possível usar o MidJourney) :sad:
 - **Apresentação do Google**: Organização do conteúdo
 
 ---
 
-## 🧠 PROMPT
+## 🧠 PROMPT GPT
 
 ### Etapas e Scripts Utilizados
 
@@ -31,7 +29,7 @@ faça um texto para ebook, com foco em python, listando as principais informaç�
 
 ---
 
-## ✨ Leonardo AI
+## ✨ PROMPT Leonardo AI
 
 On a solid blue background, a mechanical python language logo, coated in blue color and yellow glitter skin print with gold porcelain pattern, some water drops rendered in cinema4d style, dreamy and futuristic, Ray Tracing, Brandon Werfel, delicate, ethereal and dreamy, luminous, translucent colors, Lavender and Pale Gold, anatomical mechanical parts, made of carbon, with cable, octane rendering, unreal engine 5, lighting volumetric, diffuse lighting, 8k, hyperdetailed, HDR --ar 3:4 --v 6.1
 
